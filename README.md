@@ -42,12 +42,10 @@ To run the application locally, follow these steps:
 
 ## App Screenshots
 
-![Screenshot 1](![image](https://github.com/Subhradyuti/Q-A-Demo-with-Gemini/assets/133640355/1c7104ae-0e7c-484a-bc92-791f4f895a9a)
-)
+![image](https://github.com/Subhradyuti/Q-A-Demo-with-Gemini/assets/133640355/1c7104ae-0e7c-484a-bc92-791f4f895a9a)
 *Caption: Main interface showing the Q&A interaction.*
 
-![Screenshot 2](![image](https://github.com/Subhradyuti/Q-A-Demo-with-Gemini/assets/133640355/2ecbb891-d9dc-448c-bbe5-1af1061594c5)
-)
+(![image](https://github.com/Subhradyuti/Q-A-Demo-with-Gemini/assets/133640355/2ecbb891-d9dc-448c-bbe5-1af1061594c5)
 *Caption: Expanded sidebar with settings and chat history.*
 
 ## Contributing
